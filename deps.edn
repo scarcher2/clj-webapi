@@ -6,5 +6,6 @@
   ring/ring-core {:mvn/version "1.8.0"}
   ring/ring-jetty-adapter {:mvn/version "1.8.0"}
   ring/ring-json {:mvn/version "0.5.0"}
+  compojure {:mvn/version "1.6.1"}
   }
  }
